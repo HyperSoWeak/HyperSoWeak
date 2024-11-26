@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Turing Quest** (a computer game)
 
+- 🏢 I’m currently working in [**NTU CSIE Council**](https://github.com/NTUCSIECouncil)
+
 - 🌱 I’m currently studying **Computer Science** at [**National Taiwan University**](https://www.csie.ntu.edu.tw/)
 
 - 📝 I regularly write articles on [my blog](https://hypersoweak.github.io/blog/)
