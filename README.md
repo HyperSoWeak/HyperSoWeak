@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **Computer Science** at [**National Taiwan University**](https://www.csie.ntu.edu.tw/)
 
-- 📝 I regularly write articles on [my blog](https://hypersoweak.github.io/blog/)
+- 📝 I regularly write articles on my blog [**HyperLand**](https://hypersoweak.github.io/blog/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
