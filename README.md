@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HyperSoWeak</h1>
-<h3 align="center">A noob game developer from Taiwan</h3>
+<h3 align="center">A cool developer from Taiwan</h3>
 
 - 🔭 I’m currently working on **Turing Quest** (a computer game)
 
@@ -7,12 +7,13 @@
 
 - 🌱 I’m currently studying **Computer Science** at [**National Taiwan University**](https://www.csie.ntu.edu.tw/)
 
-- 📝 I regularly write articles on my blog [**HyperLand**](https://hypersoweak.github.io/blog/)
+- 📝 I regularly write articles on my blog [**HyperLand**](https://hypersoweak.github.io/blog/) (Chinese)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hyper._.0216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyper._.0216" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hypersoweak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hypersoweak" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/hypersoweak" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="hypersoweak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +22,5 @@
 <h3 align="left">Stats:</h3>
 
 ![hypersoweak's Stats](https://github-readme-stats.vercel.app/api?username=hypersoweak&theme=nord&show_icons=true&hide_border=true&count_private=true)
-
-![hypersoweak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hypersoweak&theme=nord&hide_border=true)
 
 ![hypersoweak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypersoweak&theme=nord&show_icons=true&hide_border=true&layout=compact)
