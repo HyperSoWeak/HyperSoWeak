@@ -10,7 +10,7 @@
 
 I enjoy collaborating with like-minded individuals, solving challenges, and exploring new technologies. If you're into coding, games, or tech experiments, feel free to connect!
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p>
 <a href="https://github.com/HyperSoWeak" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -20,7 +20,7 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 <a href="https://atcoder.jp/users/hypersoweak" target="_blank"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-808080.svg?&style=for-the-badge&logo=atcoder&logoColor=white" /></a>
 </p>
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" />
@@ -55,7 +55,7 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=flat-square" />
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Hyper's GitHub Statistics](https://raw.githubusercontent.com/hypersoweak/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Languages Used](https://raw.githubusercontent.com/hypersoweak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
