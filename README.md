@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Passionate Developer & 🎮 Game Creator from Taiwan</h3>
 
 - 🌟 **Focusing on:** Innovative projects, game development, and cool algorithms
-- 🎮 **Currently developing:** **[Styx Bot](https://github.com/HyperSoWeak/styx-discord-bot)**, a feature-packed Discord bot
-- 🤖 **Also working on:** **[Turing Quest](#)**, a puzzle game based on Turing machines
+- 🤖 **Currently developing:** **[Styx Bot](https://github.com/HyperSoWeak/styx-discord-bot)**, a feature-packed Discord bot
+- 🎮 **Also working on:** **[Turing Quest](#)**, a puzzle game based on Turing machines
 - 🏛️ **Involved with:** **[NTU CSIE Council](https://github.com/NTUCSIECouncil)** as a part of student initiatives
 - 📝 **Sharing knowledge on my blog:** **[HyperLand](https://hypersoweak.github.io/blog)** (Chinese)
-- 🌐 **More info about me and my work:** Check out my **[personal website](https://hypersoweak.github.io)**
+- 💯 **More info about me and my work:** Check out my **[personal website](https://hypersoweak.github.io)**
 
 I enjoy collaborating with like-minded individuals, solving challenges, and exploring new technologies. If you're into coding, games, or tech experiments, feel free to connect!
 
