@@ -13,7 +13,7 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 ### 🌐 Connect with Me
 
 <p>
-<a href="https://github.com/thmsgbrt" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://github.com/HyperSoWeak" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hypersoweak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/hyper._.0216" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/hypersoweak" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
