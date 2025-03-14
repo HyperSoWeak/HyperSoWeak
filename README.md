@@ -61,3 +61,7 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 
 <!-- ![hypersoweak's Stats](https://github-readme-stats.vercel.app/api?username=hypersoweak&theme=nord&show_icons=true&hide_border=true&count_private=true) -->
 <!-- ![hypersoweak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypersoweak&theme=nord&show_icons=true&hide_border=true&layout=compact) -->
+
+### Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/hypersoweak/count.svg)
