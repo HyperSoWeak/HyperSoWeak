@@ -5,7 +5,7 @@
 - 🤖 **Currently developing:** **[Styx Bot](https://github.com/HyperSoWeak/styx-discord-bot)**, a feature-packed Discord bot
 - 🎮 **Also working on:** **[Turing Quest](#)**, a puzzle game based on Turing machines
 - 🏛️ **Involved with:** **[NTU CSIE Council](https://github.com/NTUCSIECouncil)** as a part of student initiatives
-- 📝 **Sharing knowledge on my blog:** **[HyperLand](https://hypersoweak.github.io/blog)** (Chinese)
+- 📝 **Sharing knowledge on my blog:** **[Terminal Reverie](https://hypersoweak.github.io/blog)** (Chinese)
 - 💯 **More info about me and my work:** Check out my **[personal website](https://hypersoweak.github.io)**
 
 I enjoy collaborating with like-minded individuals, solving challenges, and exploring new technologies. If you're into coding, games, or tech experiments, feel free to connect!
@@ -29,6 +29,7 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat-square" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat-square" />
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat-square" />
 </br>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -48,6 +49,7 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat-square" />
 </br>
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" />
+<img alt="Arch Linux" src="https://img.shields.io/badge/Arch Linux-1793D1?logo=archlinux&logoColor=fff&style=flat-square" />
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square" />
 <img alt="Godot" src="https://img.shields.io/badge/Godot-3581b8?logo=godot-engine&logoColor=fff&style=flat-square" />
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff&style=flat-square" />
@@ -61,7 +63,3 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 
 <!-- ![hypersoweak's Stats](https://github-readme-stats.vercel.app/api?username=hypersoweak&theme=nord&show_icons=true&hide_border=true&count_private=true) -->
 <!-- ![hypersoweak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypersoweak&theme=nord&show_icons=true&hide_border=true&layout=compact) -->
-
-### Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/hypersoweak/count.svg)
