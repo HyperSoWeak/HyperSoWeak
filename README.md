@@ -7,8 +7,8 @@
 <a href="https://instagram.com/hyper._.0216" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://codeforces.com/profile/hypersoweak" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/hypersoweak" target="_blank"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-808080.svg?&style=for-the-badge&logo=atcoder&logoColor=white" /></a>
-<img alt="View Count" src="https://komarev.com/ghpvc/?username=hypersoweak&style=for-the-badge&color=orange" />
 </div>
+</br>
 
 - 🏆 **Focus:** Web development, cybersecurity, and algorithm competitions  
 - 🏛️ **Community:** Active in [NTU CSIE Council](https://github.com/NTUCSIECouncil)  
@@ -70,3 +70,5 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 ## 📊 GitHub Stats
 
 ![Hyper's GitHub Statistics](https://raw.githubusercontent.com/hypersoweak/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![Languages Used](https://raw.githubusercontent.com/hypersoweak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://komarev.com/ghpvc/?username=hypersoweak&style=for-the-badge&color=orange)
