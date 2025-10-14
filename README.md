@@ -12,7 +12,7 @@
 
 - 🏆 **Focus:** Web development, cybersecurity, and algorithm competitions  
 - 🏛️ **Community:** Active in [NTU CSIE Council](https://github.com/NTUCSIECouncil)  
-- 🚀 **Project Highlight:** [Challenge 2025](https://github.com/NTUCSIECouncil/Challenge2025) — completed NTU CSIE camp project  
+- 🚀 **Project Highlight:** [Challenge 2025](https://github.com/CSIE-Challenge/Challenge2025) — completed NTU CSIE camp project  
 - ✍️ **Writing:** [Terminal Reverie](https://hypersoweak.github.io/blog) (Chinese blog)  
 - 🌐 **More:** [Personal Website](https://hypersoweak.github.io)  
 
