@@ -1,6 +1,8 @@
 <h1 align="center">Hey there! 👋, I'm Hyper Hu</h1>
 <h3 align="center">🚀 Developer · 🎮 Game Creator · 🌏 Taiwan</h3>
 
+<p align="center"><em>Code is how I negotiate with time.</em></p>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/hypersoweak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/hyper._.0216" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -9,13 +11,14 @@
 </div>
 </br>
 
-- 🏆 **Focus:** Web development, cybersecurity, and algorithm competitions  
-- 🏛️ **Community:** Active in [NTU CSIE Council](https://github.com/NTUCSIECouncil)  
-- 🚀 **Project Highlight:** [Challenge 2025](https://github.com/CSIE-Challenge/Challenge2025) — completed NTU CSIE camp project  
-- ✍️ **Writing:** [Terminal Reverie](https://hypersoweak.github.io/blog) (Chinese blog)  
+- 🏆 **Focus:** Real-time systems, secure software, and competitive programming
+- 🏛️ **Community:** [NTU CSIE Council](https://github.com/NTUCSIECouncil) · [OwoJudge Team](https://github.com/OwoJudge-Team) · [HomieMentor](https://github.com/HomieMentor)  
+- 🚀 **Projects:** From full-stack systems to real-time game engines · [Explore](https://hypersoweak.github.io/projects)  
+- ✍️ **Writing:** [Terminal Reverie](https://hypersoweak.github.io/blog) — code as memory, design as thought. (zh-tw)  
 - 🌐 **More:** [Personal Website](https://hypersoweak.github.io)  
 
-I enjoy collaborating with like-minded individuals, solving challenges, and exploring new technologies. If you're into coding, games, or tech experiments, feel free to connect!
+I design and build systems that explore the boundary between theory and practice.  
+Always open to interesting collaborations.
 
 ## 🛠️ Languages & Tools
 
@@ -33,15 +36,11 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
 
 <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
 <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
@@ -54,20 +53,24 @@ I enjoy collaborating with like-minded individuals, solving challenges, and expl
 <img alt="Prettier" src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 <img alt="Ruff" src="https://img.shields.io/badge/Ruff-DD0000?style=for-the-badge&logo=ruff&logoColor=white" />
 
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 <img alt="Typst" src="https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white" />
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 <img alt="Zed" src="https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white" />
 <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img alt="Kitty" src="https://img.shields.io/badge/Kitty-20B2AA?style=for-the-badge&logo=kitty&logoColor=white" />
 <img alt="Zen Browser" src="https://img.shields.io/badge/Zen_Browser-F76F53?style=for-the-badge&logo=zenbrowser&logoColor=white" />
 <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
+
+## 🧠 Currently Building
+
+- 🎯 **Puzzl** — A real-time competitive puzzle platform
+- 🌌 **Terminal Reverie** — My self-designed blog & design system
+- 🔐 Exploring secure systems & low-level internals
+- 🦀 Learning Rust & building CLI tools
 
 ## 📊 GitHub Stats
 
