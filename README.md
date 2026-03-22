@@ -1,21 +1,23 @@
 <h1 align="center">Hey there! 👋, I'm Hyper Hu</h1>
-<h3 align="center">🚀 Developer · 🎮 Game Creator · 🌏 Taiwan</h3>
+<h3 align="center">🚀 Developer · ⚙️ Systems Builder · 🌏 Taiwan</h3>
 
 <p align="center"><em>Code is how I negotiate with time.</em></p>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/hypersoweak" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/hyper._.0216" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/hypersoweak" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/hypersoweak" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-purple.svg?&style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://atcoder.jp/users/hypersoweak" target="_blank"><img alt="AtCoder" src="https://img.shields.io/badge/AtCoder-808080.svg?&style=for-the-badge&logo=atcoder&logoColor=white" /></a>
+<a href="https://ctftime.org/user/244902" target="_blank"><img alt="CTFtime" src="https://img.shields.io/badge/CTFtime-red.svg?&style=for-the-badge&logo=ctftime&logoColor=white" /></a>
 </div>
 </br>
 
-- 🏆 **Focus:** Real-time systems, secure software, and competitive programming
-- 🏛️ **Community:** [NTU CSIE Council](https://github.com/NTUCSIECouncil) · [OwoJudge Team](https://github.com/OwoJudge-Team) · [HomieMentor](https://github.com/HomieMentor)  
-- 🚀 **Projects:** From full-stack systems to real-time game engines · [Explore](https://hypersoweak.github.io/projects)  
+- 🏆 **Focus:** Real-time systems, infrastructure, and performance-critical software  
+- 🏛️ **Community:** [NTU CSIE Council](https://github.com/NTUCSIECouncil) · [OwoJudge Team](https://github.com/OwoJudge-Team) · [Sophion AI](https://github.com/Sophion-Team)  
+- 🧪 **Research:** Secure Systems Lab · Machine Intelligence & Understanding Lab @ NTU CSIE  
+- 🌱 **Next:** Software Engineer Intern @ Google  
+- 🚀 **Projects:** From full-stack app to real-time systems · [Explore](https://hypersoweak.github.io/projects)  
 - ✍️ **Writing:** [Terminal Reverie](https://hypersoweak.github.io/blog) — code as memory, design as thought. (zh-tw)  
-- 🌐 **More:** [Personal Website](https://hypersoweak.github.io)  
 
 I design and build systems that explore the boundary between theory and practice.  
 Always open to interesting collaborations.
@@ -65,12 +67,14 @@ Always open to interesting collaborations.
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
 
+
 ## 🧠 Currently Building
 
-- 🎯 **Puzzl** — A real-time competitive puzzle platform
-- 🌌 **Terminal Reverie** — My self-designed blog & design system
-- 🔐 Exploring secure systems & low-level internals
-- 🦀 Learning Rust & building CLI tools
+- 🎯 **Puzzl** — A real-time competitive puzzle platform  
+- ⚖️ **OwoJudge** — Online judge system for real-world courses  
+- 🤖 **Sophion** — AI systems for problem solving / generation / education workflows  
+- 🔐 Exploring secure systems & low-level internals  
+- 🦀 Learning Rust & building CLI tools  
 
 ## 📊 GitHub Stats
 
